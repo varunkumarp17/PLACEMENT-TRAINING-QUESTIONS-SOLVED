@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781245824 source:c:\documents\placement training\questions\check\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

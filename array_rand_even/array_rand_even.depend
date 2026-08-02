@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780547250 source:c:\documents\placement training\questions\array_rand_even\main.c
+	<stdio.h>
+	<stdlib.h>
+

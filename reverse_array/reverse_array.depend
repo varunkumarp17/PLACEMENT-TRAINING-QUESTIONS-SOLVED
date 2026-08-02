@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780555855 source:c:\documents\placement training\questions\reverse_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780463766 source:c:\documents\placement training\questions\practice30\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

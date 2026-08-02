@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780473858 source:c:\documents\placement training\questions\temperature\main.c
+	<stdio.h>
+	<stdlib.h>
+
